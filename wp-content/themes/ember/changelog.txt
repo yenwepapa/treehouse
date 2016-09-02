@@ -1,0 +1,33 @@
+v1.0.5 	- Fixed mobile menu scroll issue
+        - Updated credit format
+
+v1.0.4 	- Fixed subpage banner image size issue
+
+v1.0.3 	- Removed extra /dir/s from /inc/kirki/
+        - Fixed missing translation functions in content-single.php
+        - Removed all demo content in header-banner.php
+        - Added new post/page banner option as default in header-banner.php and /inc/options.php
+        - Fixed some escaping issues
+    	- Migrated all settings to Kirki
+        - Moved all assets into an /assets/ dir
+        - Escaped all saved data
+        - Moved all landing page features into page template with plugin req.
+        - Added support for title-tag
+        - Updated tags
+        - Removed all custom widgets
+        - Fixed licensing info
+        - Added text-domain
+        - Made all strings translatable
+
+v1.0.2  - Moved meta-boxes to /inc/
+
+v1.0.1  - Fixed z-index issue with menu
+        - Added text domain to style.css
+        - Migrated options to Kirki from redux and updated readme.txt with licence info
+        - Added many more social media options in menu row
+        - Fixed all demo content not translatable
+        - Removed contact form and related JS
+        - Fixed customizer display bug
+        - Added link to userguide
+
+v1.0.0  - Initial Launch 
