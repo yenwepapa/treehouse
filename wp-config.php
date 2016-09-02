@@ -23,13 +23,13 @@
 define('DB_NAME', 'treehouse');
 
 /** MySQL database username */
-define('DB_USER', 'root');
+define('DB_USER', 'bc45f516a2a211');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'P@ssw0rd');
+define('DB_PASSWORD', '17348ac6');
 
 /** MySQL hostname */
-define('DB_HOST', 'localhost');
+define('DB_HOST', 'ap-cdbr-azure-southeast-b.cloudapp.net');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
