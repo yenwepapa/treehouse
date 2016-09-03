@@ -1452,6 +1452,8 @@ object {
 	color: #404040;
 	padding: 0;
 	line-height: 35px;
+	color:#009900 !important;
+	font-weight:bold;
 }
 .navbar-inverse .main-navigation ul > li {
 	display: inline;
@@ -1594,8 +1596,7 @@ ul.nav > li.current_page_item > a:before {
 	bottom: 0px;
 	left: 12.5%;
 	display: block;
-	color:#009900 !important;
-	font-weight:bold;
+
 }
 ul.nav > li.current_page_item.menu-item-home > a:before {
 	content: "";
