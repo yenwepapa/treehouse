@@ -1385,7 +1385,8 @@ object {
 	box-shadow: 0px 5px 11px 0px rgba(50, 50, 50, 0.08);
 }
 .header-content-wrap {
-	background: rgba(0, 153, 0, 0.7);
+/*	background: rgba(0, 153, 0, 0.7); */ /*green*/
+	background: rgba(105, 105, 105, 0.7);
 	position: relative;
 	-webkit-box-shadow: 0px 5px 11px 0px rgba(50, 50, 50, 0.08);
 	box-shadow: 0px 5px 11px 0px rgba(50, 50, 50, 0.08);
@@ -2045,7 +2046,8 @@ width: -webkit-calc(100% / 4);
  **   Section: Abot us;              -----
 -----------------------------------------*/
 .about-us {
-	background: #009900;
+	/*background: #009900; */ /*green*/
+	background: #696969;
 	color: #FFF;
 	padding-bottom: 100px;
 }
